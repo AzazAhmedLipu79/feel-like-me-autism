@@ -106,7 +106,7 @@ To bridge the empathy gap by allowing users to *experience* rather than just *le
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-org/feel-like-me-app.git
+   git clone repo.git
    cd feel-like-me-app
    ```
 2. **Install dependencies**
